@@ -130,7 +130,13 @@ A velocidade do combate tem dois níveis:
 
 ![combate2](telacombate2.jpg)
 
-Tipos de ataques
+Após selecionar Ataque (primeira opção) vai ser necessário escolher o tipo de ataque.
+Os tipos de ataque disponíveis vão variar dependendo do personagem, e o personagem
+principal (**レイフェル**) é o que tem mais tipos de ataque. Em todo caso, os tipos
+podem variar a força do ataque, a probabilidade de acertar, e se gasta MP.
+
+No manual são explicados em detalhe apenas os ataques de **レイフェル**, e alguns
+desses ataques também estão disponíveis em outros personagens. 
 
 1. Tipo mais comum
 2. Um pouco mais forte
