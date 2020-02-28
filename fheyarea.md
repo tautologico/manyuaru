@@ -6,7 +6,14 @@ Mega-Drive CD, Wolfteam, 1992
 
 Fhey Area é um JRPG que saiu apenas no Japão para o Mega-Drive CD.
 
-Guia/manyuaru por Leandro Tuzuki & Andrei Formiga. 
+Guia/manyuaru por Leandro Tuzuki & Andrei Formiga.
+
+## Conteúdo
+
+* História
+* [Interface](#interface)
+* [Manual](#manual)
+* [Combate](#combate)
 
 ## História
 
