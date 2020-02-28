@@ -6,6 +6,8 @@ Mega-Drive CD, Wolfteam, 1992
 
 Fhey Area é um JRPG que saiu apenas no Japão para o Mega-Drive CD.
 
+Guia/manyuaru por Leandro Tuzuki & Andrei Formiga. 
+
 ## História
 
 Fhey Area era legal, mas aí algo aconteceu.
@@ -136,12 +138,24 @@ principal (**レイフェル**) é o que tem mais tipos de ataque. Em todo caso,
 podem variar a força do ataque, a probabilidade de acertar, e se gasta MP.
 
 No manual são explicados em detalhe apenas os ataques de **レイフェル**, e alguns
-desses ataques também estão disponíveis em outros personagens. 
+desses ataques também estão disponíveis em outros personagens.
 
-1. Tipo mais comum
-2. Um pouco mais forte
-3. Ataque forte
-4. Ataque forte mas gasta MP
+1. Tipo mais comum (きりさく)
+2. Um pouco mais forte (つきさす)
+3. Ataque forte (ふりまわす)
+4. Ataque forte mas gasta MP (かすみぎり)
+
+### Descrição dos tipos
+
+A descrição dos tipos de ataque do protagonista
+está no manual (mas não tem dos outros personagens):
+
+* きりさく (*kirisaku*) - dano baixo mas maior taxa de acerto, um ataque mais seguro
+* つきさす (*tsukisasu*) - dano mais alto mas taxa de acerto menor que o anterior
+* ふりまわす (*furimawasu*) - dano e taxa de acerto mais baixos, mas acerta vários inimigos em cada ataque
+* かすみぎり (*kasumigiri*) - gasta MP mas tem dano mais alto, taxa de acerto maior e acerta vários inimigos por ataque. Apenas o protagonista tem esse tipo.
+
+Outros dois personagens tem o ataque ふりまわす (*furimawasu*).
 
 ## Manual
 
