@@ -26,11 +26,12 @@ Existem dois slots para salvar o jogo: A e B. Esta tela mostra a opção de qual
 O jogo pode ser salvo no INN (em inglês mesmo):
 ![inn](tela03.jpg)
 
-Ao entrar no INN e falar com a atendente, é preciso pagar para salvar:
+Ao entrar no INN e falar com a atendente, é preciso pagar para salvar (custa 2G):
 ![atendente para salvar](tela04.jpg)
 
 1. Sim (salvar)
 2. Não (cancelar)
+
 ** Dinheiro disponível
 
 Esta é a loja de itens:
