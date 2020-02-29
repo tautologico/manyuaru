@@ -174,7 +174,7 @@ Outros dois personagens tem o ataque ふりまわす (*furimawasu*).
 Cada tipo ou escola de magia pode possuir várias
 magias, geralmente em ordem crescente de poder e consumo de MP.
 
-* Magia de fogo (chamas): 火炎系. Escola mais básica de magias de ataque. Magias em ordem crescente: カル　ー　カルア　ー　バガルア. Todas acertam apenas um inimigo.
+* Magia de fogo (chamas): 火炎系. Escola mais básica de magias de ataque. Magias em ordem crescente: ガル　ー　ガルア　ー　バガルア. Todas acertam apenas um inimigo.
 * Magia de eletricidade: 電撃系. Magias: ザリ　ー　ザリバ　ー　ダザリバ. Apenas um alvo.
 * Magia de explosão: 爆発系. Magias: ダム　ー　ダムマ　ー　ガダムマ. Atingem todos os inimigos.
 * Outras magias de ataque: ...
@@ -185,7 +185,7 @@ magias, geralmente em ordem crescente de poder e consumo de MP.
 
 ### Afinidades
 
-* レイフェル tem afinidade média com a maioria das magias, mas alta para magias de movimento e baixa para magias de proteção. 
+* レイフェル tem afinidade média com a maioria das magias, mas alta para magias de movimento e baixa para magias de proteção.
 
 ## Manual
 
