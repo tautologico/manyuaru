@@ -10,10 +10,11 @@ Guia/manyuaru por Leandro Tuzuki & Andrei Formiga.
 
 ## Conteúdo
 
-* História
+* [História](#história)
 * [Interface](#interface)
-* [Manual](#manual)
 * [Combate](#combate)
+* [Mágica](#mágica)
+* [Manual](#manual)
 
 ## História
 
@@ -163,6 +164,28 @@ está no manual (mas não tem dos outros personagens):
 * かすみぎり (*kasumigiri*) - gasta MP mas tem dano mais alto, taxa de acerto maior e acerta vários inimigos por ataque. Apenas o protagonista tem esse tipo.
 
 Outros dois personagens tem o ataque ふりまわす (*furimawasu*).
+
+## Mágica
+
+É preciso usar uma pedra mágica para usar magia. Todos os personagens podem usar magia, mas cada personagem vai ter afinidade maior ou menor com os diferentes tipos de magia. A afinidade do personagem pode influenciar na força da magia e na sua chance de sucesso.
+
+### Tipos de magia
+
+Cada tipo ou escola de magia pode possuir várias
+magias, geralmente em ordem crescente de poder e consumo de MP.
+
+* Magia de fogo (chamas): 火炎系. Escola mais básica de magias de ataque. Magias em ordem crescente: カル　ー　カルア　ー　バガルア. Todas acertam apenas um inimigo.
+* Magia de eletricidade: 電撃系. Magias: ザリ　ー　ザリバ　ー　ダザリバ. Apenas um alvo.
+* Magia de explosão: 爆発系. Magias: ダム　ー　ダムマ　ー　ガダムマ. Atingem todos os inimigos.
+* Outras magias de ataque: ...
+* Magias de suporte:
+* Magias de cura: 回復系. Magias: カイ　ー　カイハ　ー　ラカイハ. Curam um por vez.
+* Magias para status: apenas uma magia para curar status, レイルナ
+* Outras magias
+
+### Afinidades
+
+* レイフェル tem afinidade média com a maioria das magias, mas alta para magias de movimento e baixa para magias de proteção. 
 
 ## Manual
 
