@@ -181,7 +181,10 @@ magias, geralmente em ordem crescente de poder e consumo de MP.
 * Magias de suporte:
 * Magias de cura: 回復系. Magias: カイ　ー　カイハ　ー　ラカイハ. Curam um por vez.
 * Magias para status: apenas uma magia para curar status, レイルナ
-* Outras magias
+* Outras magias importantes:
+  * バーラ: retorna para uma cidade já visitada
+  * ダット: sai da dungeon atual
+
 
 ### Afinidades
 
