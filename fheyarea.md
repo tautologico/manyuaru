@@ -185,6 +185,13 @@ magias, geralmente em ordem crescente de poder e consumo de MP.
   * バーラ: retorna para uma cidade já visitada
   * ダット: sai da dungeon atual
 
+### Scrolls
+
+Um item de scroll (pergaminho) permite usar uma magia uma vez, mesmo que o personagem não tenha aprendido a magia. Scroll é スクロール, com o nome da magia antes do nome スクロール, portanto dois
+itens importantes no início do jogo são:
+
+* バーラスクロール: scroll para retornar para uma cidade visitada
+* ダットスクロール: scroll para sair da dungeon atual
 
 ### Afinidades
 
