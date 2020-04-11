@@ -18,7 +18,15 @@ Guia/manyuaru por Leandro Tuzuki & Andrei Formiga.
 
 ## História
 
-Fhey Area era legal, mas aí algo aconteceu.
+A introdução fala sobre como os espíritos criaram a Fhey Area e a tornaram
+uma terra abundante, mas homens ambiciosos aprenderam a manipular o poder
+dos espíritos para seus próprios propósitos, criando magias destrutivas e
+invocando exércitos. Isso levou a grandes guerras que trouxeram ruína e
+destruição. Depois da guerra os homens prometeram nunca mais abusar do
+poder da magia. Isso foi há muito tempo atrás.
+
+Para entender o que acontece no começo do jogo, veja o vídeo
+[Fhey Area Introdução com Legendas](https://youtu.be/_7mObYQcFj4).
 
 ## Interface
 
@@ -192,6 +200,8 @@ itens importantes no início do jogo são:
 
 * バーラスクロール: scroll para retornar para uma cidade visitada
 * ダットスクロール: scroll para sair da dungeon atual
+
+Esses scrolls normalmente podem ser comprados nas lojas das cidades, mesmos as iniciais.
 
 ### Afinidades
 
