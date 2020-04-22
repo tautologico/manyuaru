@@ -26,7 +26,7 @@ destruição. Depois da guerra os homens prometeram nunca mais abusar do
 poder da magia. Isso foi há muito tempo atrás.
 
 Para entender o que acontece no começo do jogo, veja o vídeo
-[Fhey Area Introdução com Legendas](https://youtu.be/_7mObYQcFj4).
+[Fhey Area: Introdução com Legendas](https://youtu.be/_7mObYQcFj4).
 
 ## Interface
 
@@ -188,7 +188,8 @@ magias, geralmente em ordem crescente de poder e consumo de MP.
 * Outras magias de ataque: ...
 * Magias de suporte:
 * Magias de cura: 回復系. Magias: カイ　ー　カイハ　ー　ラカイハ. Curam um por vez.
-* Magias para status: apenas uma magia para curar status, レイルナ
+* Magias para status: レイルナ remove o status de incapacitado de um personagem
+durante o combate. Um personagem fica incapacitado quando seu HP chega a zero. 
 * Outras magias importantes:
   * バーラ: retorna para uma cidade já visitada
   * ダット: sai da dungeon atual
